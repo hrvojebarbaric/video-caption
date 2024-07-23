@@ -2,7 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+Install project:
+
+```bash
+npm i
+```
+
+Run the development server:
 
 ```bash
 npm run dev
@@ -10,7 +16,13 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-To run unit test:
+Run the build:
+
+```bash
+npm run build
+```
+
+Run unit test:
 
 ```bash
 npm run test
@@ -18,4 +30,4 @@ npm run test
 
 ## Learn More
 
-This project use styled components. For syntax highlighting and IntelliSense for styled-components add vscode-styled-components extension.
+This project use styled components. For syntax highlighting and IntelliSense for styled-components add vscode-styled-components extension in Visual studio code.
